@@ -1,0 +1,58 @@
+.navigationbar{
+    background-color:#349fa4 ;
+}
+#lizet table{
+    width: 1110px;
+    align-items: center;
+    padding-top: 20px;
+}
+#lizet img{
+    text-align: right;
+    height: 500px;
+    padding-left: 25px;
+}
+#lizet p{
+    text-align:left;
+    font-size: 30px;
+    font-family: didot, serif;
+    width: 600px;
+    padding-top: 20px;
+    font-weight: lighter;
+    text-align: justify;
+    vertical-align: center;
+    padding-right: 20px;
+    padding-left: 40px;
+}
+#lizet h1{
+    font-family: didot, serif;
+    font-size: 50px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+.navbar-header img{
+    height: 120px;
+    width: auto;
+    margin-top: -20px;
+}
+#contact h1{
+    font-family: didot, serif;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+#contact h2{
+    font-family: didot, serif;
+    font-size: 40px;
+}
+#contact p{
+    font-family: didot, serif;
+    font-size: 20px;
+    text-align: center;
+}
+#contact ul{
+    font-size: 15px;
+    font-family: didot, serif;
+}
+body {
+    background-color:#f6f7f1 ;
+}
