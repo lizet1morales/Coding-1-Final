@@ -43,6 +43,7 @@
 #contact h2{
     font-family: didot, serif;
     font-size: 40px;
+    text-align: center;
 }
 #contact p{
     font-family: didot, serif;
@@ -52,7 +53,45 @@
 #contact ul{
     font-size: 15px;
     font-family: didot, serif;
+    text-align: center;
+    list-style-type: none;
+    font-style: italic;
 }
 body {
-    background-color:#f6f7f1 ;
+    background-color:ivory ;
+}
+#myCarousel img{
+    height: 1100px;
+    width: auto;
+   margin-left: 300px;
+}
+.artwork {
+    font-family: didot, serif;
+    text-align: center;
+    font-size: 65px;
+}
+.footerlink{
+    text-align: center;
+    background-color: DarkSalmon;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    height: 120px;
+}
+.footerlink p{
+    font-size:30px;
+    font-family: didot, serif;
+}
+.footerlink a {
+    text-decoration: none;
+    color:black;
+}
+#contact hr {
+    align-content: center;
+    width: 900px;
+    color: black;
+    background-color: black;
+    height: 1px;
 }
